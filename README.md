@@ -1,4 +1,4 @@
-# 🥷 DRENADOR ADVERSARIAL MEV BOT
+## DRENADOR ADVERSARIAL MEV BOT 
 
 <div align="center">
   
@@ -8,8 +8,7 @@
   ![License](https://img.shields.io/badge/license-MIT-red.svg)
   
   **⚡ ENGENHARIA REVERSA DE ALTO NÍVEL - CONTROLE ABSOLUTO DE CUSTÓDIA ⚡**
-
-⚠️ APENAS PARA FINS EDUCACIONAIS - CONHECIMENTO É PODER ⚠️
+⚠️ APENAS PARA FINS EDUCACIONAIS ⚠️
 
 
 </div>
@@ -22,10 +21,10 @@
 
 
 ## **O PODER ABSOLUTO**
-- `const chaves = 953;` // Total de wallets comprometidas
-- `const grupos = 20;` // Camadas de ofuscação
-- `const taxa = 0.5;` // % invisível por transação
-- `const lucroMensal = "2.5M";` // USD (estimativa)
+- `const chaves = 953;` = Total de wallets comprometidas
+- `const grupos = 20;` = Camadas de ofuscação
+- `const taxa = 0.5;` = % invisível por transação
+- `const lucroMensal = "2.5M";` = USD (estimativa)
 
 ## **CAPABILITIES TÉCNICAS**
 ### **⚡ ENGENHARIA REVERSA DE BACKEND**
@@ -88,7 +87,7 @@
 └─────────────────────────────────────────────────────────────────┘
 ```
 
-## **🚀 SNIPER - O CÉREBRO DA OPERAÇÃO**
+## **SNIPER - O CÉREBRO DA OPERAÇÃO**
 
 ### **CAPABILITIES DO SNIPER**
 - ✅ RPC Premium (GetBlock) → Transações críticas
@@ -102,7 +101,7 @@
 
 ## **EXEMPLO DE EXECUÇÃO**
 
-**🥷 SNIPER PASSO 3 - BACKDOOR SILENCIOSO (NÍVEL APT)**
+**BACKDOOR SILENCIOSO**
 ================================================================================
 📦 Contrato Mestre: 0x7a2f...b3c8
 🔥 Wallets Burner: 20 (1 por grupo de 50)
@@ -121,7 +120,9 @@
 📈 [15/826] 1.8% | Hoje: 15/15 | Vel: 12.5 wallets/min | ETA: 64.8 min | ✅ 154 | ❌ 0 | 💰 saldo: 1110USDT
 
 **🎯 META DIÁRIA DE 15 ATINGIDA! Parando execução para manter o stealth.**
+
 🔧 INSTALAÇÃO (AMBIENTE CONTROLADO)
+
 PRÉ-REQUISITOS
 bash
 Node.js 18.x
@@ -147,36 +148,37 @@ nano sniper_passo3_backdoor.js
 
 # Build do binário ofuscado
 
-
 📈 ESTRATÉGIAS DE EXTRAÇÃO
-**1. MODO PARASITA (PADRÃO)**
-// 0.3% - 0.8% por transação
-// 10% retido para auto-gás
-// Invisível por meses/anos
 
-**2. MODO PREDADOR (JACKPOT)**
-// Ativado via função toggleModo()
-// Drena 100% dos fundos
-// Timing: dia de maior liquidez
-// Saque instantâneo via bridge
+### 1. MODO PARASITA (PADRÃO)
+- 0.3% - 0.8% por transação
+- 10% retido para auto-gás
+- Invisível por meses/anos
 
-**3. ROTAÇÃO DE COLETORES**
-// 20 burners diferentes
-// Cada grupo de 50 wallets → burner específico
-// Impossível correlacionar
+### 2. MODO PREDADOR (JACKPOT)
+- Ativado via função toggleModo()
+- Drena 100% dos fundos
+- Timing: dia de maior liquidez
+- Saque instantâneo via bridge
+
+### 3. ROTAÇÃO DE COLETORES
+- 20 burners diferentes
+- Cada grupo de 50 wallets → burner específico
+- Impossível correlacionar
 
 
 ## 🛡️ ANTI-DETECÇÃO IMPLEMENTADA
 
-Técnica	Implementação	Eficácia
-Anti-simulação	gasprice + gasleft + block.number	🟢 Máxima
-Jitter dinâmico	1000ms + random(3000)	🟢 Máxima
-RPC rotativo	Pool de 12 endpoints	🟢 Máxima
-Checkpoint	JSON + logs anônimos	🟢 Máxima
-Meta diária	15 wallets/dia	🟢 Máxima
-Lock de nonce	Mapa de locks	🟢 Máxima
-Self-fueling	10% retido	🟢 Máxima
-Burners rotativos	20 coletores	🟢 Máxima
+| Técnica | Implementação | Eficácia |
+|---|---|---|
+| Anti-simulação | gasprice + gasleft + block.number | 🟢 Máxima |
+| Jitter dinâmico | 1000ms + random(3000) | 🟢 Máxima |
+| RPC rotativo | Pool de 12 endpoints | 🟢 Máxima |
+| Checkpoint | JSON + logs anônimos | 🟢 Máxima |
+| Meta diária | 15 wallets/dia | 🟢 Máxima |
+| Lock de nonce | Mapa de locks | 🟢 Máxima |
+| Self-fueling | 10% retido | 🟢 Máxima |
+| Burners rotativos | 20 coletores | 🟢 Máxima |
 
 ## 📊 PROJEÇÕES DE LUCRO
 
@@ -200,13 +202,13 @@ Um único saque: 5.000+ BNB ≈ R$ 9 MILHÕES
 
 ## PROTEGER O INVASOR
 
-// Código ofuscado - ilegível
-// Binário compilado - sem source
-// Logs anonimizados - sem IPs
-// Chaves em memória - nunca em disco
-// VPN obrigatória - rotativa
-// VPS com firewall - portas fechadas
-// Screen detached - invisível
+ - Código ofuscado - ilegível
+ - Binário compilado - sem source
+ - Logs anonimizados - sem IPs
+ - Chaves em memória - nunca em disco
+ - VPN obrigatória - rotativa
+ - VPS com firewall - portas fechadas
+ - Screen detached - invisível
 
 ## ⚠️ AVISOS LEGAIS (OBRIGATÓRIO)
 
